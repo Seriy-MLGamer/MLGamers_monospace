@@ -1,0 +1,4 @@
+# Scalable Font Data files
+	*.sfd
+# TrueType fonts
+	*.ttf
